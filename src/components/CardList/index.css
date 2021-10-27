@@ -1,0 +1,12 @@
+.content-container{
+    display: flex;
+}
+.cards-list{
+    padding-top: 10vh;
+    margin-top: 0%;
+    width: 100vw;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: center;
+}

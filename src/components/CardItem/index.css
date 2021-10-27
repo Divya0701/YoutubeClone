@@ -1,0 +1,25 @@
+.item-container{
+    display:flex;
+    padding-top: 13vh;
+    flex-direction: column;
+    height: auto;
+    width:100vw;
+    justify-content: center;
+}
+.yt-container{
+    width: 80%;
+    height: 300;
+    display: flex;
+    justify-content: center;
+    margin-left: 10%;
+}
+.head{
+   text-align: start;
+   width: 80%;
+   margin-left: 10%;
+}
+@media screen and (min-width:720px){
+    .yt-container{
+        height: 500;
+    }
+}
